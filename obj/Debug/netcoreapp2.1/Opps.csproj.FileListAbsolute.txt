@@ -1,0 +1,11 @@
+D:\Sambit\Opps\Opps\oops\bin\Debug\netcoreapp2.1\Opps.deps.json
+D:\Sambit\Opps\Opps\oops\bin\Debug\netcoreapp2.1\Opps.runtimeconfig.json
+D:\Sambit\Opps\Opps\oops\bin\Debug\netcoreapp2.1\Opps.runtimeconfig.dev.json
+D:\Sambit\Opps\Opps\oops\bin\Debug\netcoreapp2.1\Opps.dll
+D:\Sambit\Opps\Opps\oops\bin\Debug\netcoreapp2.1\Opps.pdb
+D:\Sambit\Opps\Opps\oops\obj\Debug\netcoreapp2.1\Opps.csprojAssemblyReference.cache
+D:\Sambit\Opps\Opps\oops\obj\Debug\netcoreapp2.1\Opps.csproj.CoreCompileInputs.cache
+D:\Sambit\Opps\Opps\oops\obj\Debug\netcoreapp2.1\Opps.AssemblyInfoInputs.cache
+D:\Sambit\Opps\Opps\oops\obj\Debug\netcoreapp2.1\Opps.AssemblyInfo.cs
+D:\Sambit\Opps\Opps\oops\obj\Debug\netcoreapp2.1\Opps.dll
+D:\Sambit\Opps\Opps\oops\obj\Debug\netcoreapp2.1\Opps.pdb
